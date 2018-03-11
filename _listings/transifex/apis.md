@@ -14,8 +14,8 @@ tags:
 - Translation
 - Target
 - Stack Network
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/translation/master/_listings/transifex/apis.yaml
 specificationVersion: "0.14"
 apis: []
