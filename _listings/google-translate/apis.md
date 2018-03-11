@@ -17,21 +17,11 @@ tags:
 - Stack
 - Language
 - Google APIs
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/translation/master/_listings/google-translate/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: Google Translate API
-  description: Cloud Translation API provides a simple programmatic interface for
-    translating an arbitrary string into any supported language
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-translate-hello-lead-2x.png
-  humanURL: ""
-  baseURL: ://www.googleapis.com//language/translate
-  tags: Translation
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/translation/master/_listings/google-translate/v2-languages-get.md
+apis: []
 x-common:
 - type: x-attribution
   url: https://cloud.google.com/translate/attribution
